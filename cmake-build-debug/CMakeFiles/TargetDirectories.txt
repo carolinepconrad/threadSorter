@@ -1,0 +1,3 @@
+/Users/carolineconrad/CLionProjects/finalProject/cmake-build-debug/CMakeFiles/finalProject.dir
+/Users/carolineconrad/CLionProjects/finalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carolineconrad/CLionProjects/finalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
